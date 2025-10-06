@@ -611,6 +611,8 @@ github.com/c2h5oh/datasize v0.0.0-20231215233829-aa82cc1e6500 h1:6lhrsTEnloDPXye
 github.com/c2h5oh/datasize v0.0.0-20231215233829-aa82cc1e6500/go.mod h1:S/7n9copUssQ56c7aAgHqftWO4LTf4xY6CGWt8Bc+3M=
 github.com/caarlos0/env/v9 v9.0.0 h1:SI6JNsOA+y5gj9njpgybykATIylrRMklbs5ch6wO6pc=
 github.com/caarlos0/env/v9 v9.0.0/go.mod h1:ye5mlCVMYh6tZ+vCgrs/B95sj88cg5Tlnc0XIzgZ020=
+github.com/camptocamp/opentelemetry-collector-contrib/connector/logsmatchconnector v0.134.0 h1:8FzpJvGBD9n/gwukbwTrlye/v6JzuaCBRBLms9mE2K8=
+github.com/camptocamp/opentelemetry-collector-contrib/connector/logsmatchconnector v0.134.0/go.mod h1:K2/DCuBErFz8Z9OG2/B5C2yuUuSeSPIphVUGJPXV8/w=
 github.com/cenkalti/backoff v2.2.1+incompatible h1:tNowT99t7UNflLxfYYSlKYsBpXdEet03Pg2g16Swow4=
 github.com/cenkalti/backoff v2.2.1+incompatible/go.mod h1:90ReRw6GdpyfrHakVjL/QHaoyV4aDUVVkXQJJJ3NXXM=
 github.com/cenkalti/backoff/v3 v3.0.0/go.mod h1:cIeZDE3IrqwwJl6VUwCN6trj1oXrTS4rc0ij+ULvLYs=
@@ -1194,8 +1196,6 @@ github.com/grafana/tail v0.0.0-20230510142333-77b18831edf0 h1:bjh0PVYSVVFxzINqPF
 github.com/grafana/tail v0.0.0-20230510142333-77b18831edf0/go.mod h1:7t5XR+2IA8P2qggOAHTj/GCZfoLBle3OvNSYh1VkRBU=
 github.com/grafana/vmware_exporter v0.0.5-beta.0.20250218170317-73398ba08329 h1:Rs4H1yv2Abk3xE82qpyhMGGA8rswAOA0HQZde/BYkFo=
 github.com/grafana/vmware_exporter v0.0.5-beta.0.20250218170317-73398ba08329/go.mod h1:Z28219aViNlsLlPvuCnlgHDagRdZBAZ7JOnQg1b3eWg=
-github.com/grafana/walqueue v0.0.0-20250916201216-152b1f10cca2 h1:6HRYKHfWwdIoBF5jvVAYnARFHJiKe+++j1Oxh6A1mNw=
-github.com/grafana/walqueue v0.0.0-20250916201216-152b1f10cca2/go.mod h1:LJm4P3SayTHSbHBYepsAf3WqlY/gwSYQyMs7OLLAi6A=
 github.com/grafana/walqueue v0.0.0-20250919134944-0471c03aa304 h1:0Mllr6XQcAzwxGh/zHQbL/BtVGNRzRmIRBZRHqTiG3E=
 github.com/grafana/walqueue v0.0.0-20250919134944-0471c03aa304/go.mod h1:RokiltsxYrF3qitnIdaFBGLz5UrCo7DZMMoJrrzHyPc=
 github.com/grobie/gomemcache v0.0.0-20230213081705-239240bbc445 h1:FlKQKUYPZ5yDCN248M3R7x8yu2E3yEZ0H7aLomE4EoE=

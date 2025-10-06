@@ -115,6 +115,7 @@ require (
 	github.com/oklog/run v1.2.0
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/oliver006/redis_exporter v1.74.0
+	github.com/open-telemetry/opentelemetry-collector-contrib/connector/logsmatchconnector v0.134.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/connector/servicegraphconnector v0.134.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/connector/spanmetricsconnector v0.134.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/exporter/awss3exporter v0.134.0
@@ -509,7 +510,7 @@ require (
 	github.com/bmatcuk/doublestar/v4 v4.9.1 // indirect
 	github.com/briandowns/spinner v1.23.0 // indirect
 	github.com/c2h5oh/datasize v0.0.0-20231215233829-aa82cc1e6500 // indirect
-	github.com/caarlos0/env/v9 v9.0.0 // indirect
+	github.com/caarlos0/env/v9 v9.0.0
 	github.com/cenkalti/backoff v2.2.1+incompatible // indirect
 	github.com/cenkalti/backoff/v4 v4.3.0 // indirect
 	github.com/cenkalti/backoff/v5 v5.0.3 // indirect
@@ -1082,3 +1083,5 @@ replace github.com/deneonet/benc => github.com/deneonet/benc v1.1.7
 replace github.com/opencontainers/runc => github.com/opencontainers/runc v1.2.6
 
 replace sigs.k8s.io/controller-runtime => sigs.k8s.io/controller-runtime v0.20.4
+
+replace github.com/open-telemetry/opentelemetry-collector-contrib/connector/logsmatchconnector v0.134.0 => github.com/camptocamp/opentelemetry-collector-contrib/connector/logsmatchconnector v0.134.0
