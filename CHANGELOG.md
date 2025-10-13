@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.12.2.c2c.1](https://github.com/camptocamp/alloy/compare/v1.12.2...v1.12.2.c2c.1) (2026-01-20)
+
+### Features
+
+- (_Experimental_) Add `otelcol.connector.count` community component to count spans, span events, metrics, data points, and log records. (@yann-soubeyrand)
+
 ## [1.12.2](https://github.com/grafana/alloy/compare/v1.12.1...v1.12.2) (2026-01-08)
 
 
