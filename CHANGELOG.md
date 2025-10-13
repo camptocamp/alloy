@@ -10,6 +10,13 @@ internal API changes are not present.
 Main (unreleased)
 -----------------
 
+v1.12.0-rc.3.c2c.1
+-----------------
+
+### Features
+
+- (_Experimental_) Add `otelcol.connector.count` community component to count spans, span events, metrics, data points, and log records. (@yann-soubeyrand)
+
 v1.12.0
 -----------------
 
